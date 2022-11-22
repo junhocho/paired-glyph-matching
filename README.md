@@ -3,7 +3,7 @@ Font Representation Learning via Paired-glyph Matching
 
 **Accepted to **BMVC2022** :tada:**
 
-PyTorch code of [Font Representation Learning via Paired-glyph Matching](arxiv.org/abs/2211.10967)
+PyTorch code of [Font Representation Learning via Paired-glyph Matching](https://arxiv.org/abs/2211.10967)
 
 [Junho Cho](http://tmmse.xyz/junhocho/), Kyuewang Lee, Jin Young Choi
 
