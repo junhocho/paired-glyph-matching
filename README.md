@@ -162,7 +162,12 @@ Also some codes from
 ## Citation
 
 ```
-placeholder
+@InProceedings{Cho2022,
+	title = {Font Representation Learning via Paired-glyph Matching},
+	author = {Cho, Junho and Lee, Kyuewang and Choi, Jin Young},
+	booktitle = {British Machine Vision Conference (BMVC)},
+	year = {2022}                         
+}
 ```
 
 ## Copyright
