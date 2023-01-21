@@ -37,6 +37,7 @@ It mounts `$PWD` which is main code dir as home folder in the docker image, as w
 - Download O'Donovan dataset from [Attr2Font](https://github.com/hologerry/Attr2Font) as `./data/explor_all`.
   - `cp ./attributes_alphanumeric.txt ./data/explor_all`
 - Download [OFL dataset](https://drive.google.com/file/d/1ErYQM5XTguNLH5fdkxv0ANYR30xk-xOt/view?usp=share_link) as `./data/ofl_images`.
+  - Also download [glyph_files.txt](https://drive.google.com/file/d/1ZDywvYW5Hwo1n5S8uIyH6wvg_Zeb52rz/view?usp=share_link) and place in `./data/ofl_images/`
 
 4. Train 
 
