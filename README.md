@@ -5,7 +5,7 @@ Font Representation Learning via Paired-glyph Matching
 
 PyTorch code of [Font Representation Learning via Paired-glyph Matching](https://arxiv.org/abs/2211.10967)
 
-[Junho Cho](http://tmmse.xyz/junhocho/), Kyuewang Lee, Jin Young Choi
+[Junho Cho](https://sudormrf.run/junhocho/), Kyuewang Lee, Jin Young Choi
 
 ![](./img/framework.png)
 
